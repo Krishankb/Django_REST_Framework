@@ -11,4 +11,4 @@ Its a Django project. In this we can create,update,delete,view,upload an image, 
 
 4. create of superuser : python manage.py createsuperuser 
 
-4.run on the saerver : python manage.py runserver 
+5.run on the saerver : python manage.py runserver 
