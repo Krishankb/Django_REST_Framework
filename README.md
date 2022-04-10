@@ -12,3 +12,9 @@ Its a Django project. In this we can create,update,delete,view,upload an image, 
 4. create of superuser : python manage.py createsuperuser 
 
 5.run on the saerver : python manage.py runserver 
+
+6. To create : localhost/api/product-create
+   To 'List': 'api/product-list/',
+   To  'Detail View': 'api/product-detail/<int:id>/',
+   To  'Update': 'api/product-update/<int:id>/',
+   To  'Delete': 'api/product-detail/<int:id>/'
